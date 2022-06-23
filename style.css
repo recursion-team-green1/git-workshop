@@ -1,7 +1,21 @@
+/* reset css */
+p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* ------------------------------------------------------------------------- */
+/* text */
 a {
   text-decoration: none;
 }
 
+.ff-italic {
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lobster', cursive;
+}
+
+/* ----------------------------------------------------------------------------- */
 .opacity0q8 {
   opacity: 0.8;
 }
@@ -10,11 +24,8 @@ a {
   opacity: 1;
 }
 
-.ff-italic {
-  font-family: 'Dancing Script', cursive;
-}
 
-
+/* ------------------------------------------------ */
 /* img */
 .main-img {
   max-height: 60vh;
@@ -26,10 +37,23 @@ a {
   width: 100%;
 }
 
+.food-type-img {
+  height: 5vh;
+  width: 5vh;
+}
+/* --------------------------------------------------------------- */
+/* size */
 .height100p {
   height: 100%;
 }
 
+/* ------------------------------------------------------------- */
+/* color */
+.base-bg-color {
+  background-color: rgb(212, 212, 212);
+}
+
+/* --------------------------------------------- */
 /* mix */
 .card-style {
   border-radius: 1%;
