@@ -1,0 +1,40 @@
+.ff-italic {
+  font-family: 'Dancing Script', cursive;
+}
+
+.drink-title {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
+
+.drink-subtitle {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+}
+
+body {
+  background-color: #d4d4d4;
+}
+
+.img {
+  max-width: 100%;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.sub-font {
+  font-size: 0.5rem;
+}
+
+.p {
+  font-family: 'Yuji Mai', serif;
+}
+
+.card-style {
+  width: auto;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);
+          box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);
+  background-color: white;
+}
+/*# sourceMappingURL=style-drink.css.map */
